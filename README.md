@@ -1,8 +1,8 @@
- <body><h1 align="center"> Hi, I’m Kseniia </a> 
-<h3 align="center">Computer science and businesы analytics student </h3> </body>
+# Hi, I’m Kseniya
+### Computer science and business analytics student
 - 👀 I’m interested in NLP and Finance. 
 - 🌺 I am data scientist.
-- 🌱 I’m currently learning Quantative Finance.
+- 🌱 I’m currently learning Quantative Finance and Deep Learning.
 - 💞️ You can write me on kpyakunina@gmail.com
 
 <!---
